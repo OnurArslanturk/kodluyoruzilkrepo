@@ -1,12 +1,13 @@
-> ***Onur*** *Arslantürk* > [LinkedIn](https://www.linkedin.com/in/onur-arslant%C3%BCrk/) - [YouTube](http://www.onurarslanturk.com/) - [Medium](http://www.onurarslanturk.com/)
+> ***Onur*** *Arslantürk* > [LinkedIn](https://www.linkedin.com/in/onur-arslant%C3%BCrk/) - [YouTube](http://www.onurarslanturk.com/) - [Blog](http://www.onurarslanturk.com/)
 ![FunnyMotto](absoluteMotivation.jpg "so it means that nevet skip your task :)")
-
+----
 ## Eğitimin Genel Hedefi:
 * Yazılım Dünyasına yeni adım atan kişiler için temel konuların incelenmesi
 * roadmap.sh ile hedeflerini kontrol etmelerini sağlamak
 * JavaScript’e geçmeden önce HTML, CSS ve Bootstrap gibi temel yapıları kullanabilmelerini sağlamak
 * Text Editör hakimiyetlerini kazandırmak
 * JavaScript temellerini aktarıp herhangi bir Front-End kütüphanesi kullanmadan başlangıç düzeyindeki projeleri hayata geçirebilmelerini sağlamak
+---
 ## Eğitim Kategorileri:
 - Eğitime Başlarken
 - Yol Haritası
@@ -17,11 +18,12 @@
 - Bootstrap Temelleri
 - GIT ve GitHub
 - Javascript
+---
 ## Kullanılan VS Code Eklentileri:
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Markdown Preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
-
+---
 ## Sık Kullanılan Markdown İşaretlemeleri
 - [Tutorial](https://commonmark.org/help/tutorial/index.html)
 - [Doküman](https://commonmark.org/help/)
@@ -41,6 +43,7 @@ Image/Gorsel:
 ![Aciklama Bilgisi](url)
 ![Lorem Picsum](https://picsum.photos/200/300)
 ```
+---
 | TestTableID | C1testTable | C2testTable |
 | - | - | - |
 | 1 | Hello | World |
