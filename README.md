@@ -1,4 +1,6 @@
 > ***Onur*** *Arslantürk* > [LinkedIn](https://www.linkedin.com/in/onur-arslant%C3%BCrk/) - [YouTube](http://www.onurarslanturk.com/) - [Medium](http://www.onurarslanturk.com/)
+![FunnyMotto](absoluteMotivation.jpg "so it means that nevet skip your task :)")
+
 ## Eğitimin Genel Hedefi:
 * Yazılım Dünyasına yeni adım atan kişiler için temel konuların incelenmesi
 * roadmap.sh ile hedeflerini kontrol etmelerini sağlamak
