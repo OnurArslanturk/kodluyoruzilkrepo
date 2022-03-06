@@ -1,4 +1,4 @@
-> > [LinkedIn](https://www.linkedin.com/in/onur-arslant%C3%BCrk/) - [YouTube](http://www.onurarslanturk.com/) - [Medium](http://www.onurarslanturk.com/)
+> ***Onur*** *Arslantürk* > [LinkedIn](https://www.linkedin.com/in/onur-arslant%C3%BCrk/) - [YouTube](http://www.onurarslanturk.com/) - [Medium](http://www.onurarslanturk.com/)
 ## Eğitimin Genel Hedefi:
 * Yazılım Dünyasına yeni adım atan kişiler için temel konuların incelenmesi
 * roadmap.sh ile hedeflerini kontrol etmelerini sağlamak
@@ -41,5 +41,5 @@ Image/Gorsel:
 ```
 | TestTableID | C1testTable | C2testTable |
 | - | - | - |
-| 1 | Hello | Word |
+| 1 | Hello | World |
 | 2 | Hello | Turkey |
