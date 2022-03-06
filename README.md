@@ -1,4 +1,4 @@
-> > [LinkedIn](https://www.linkedin.com/in/hakanyalcinkaya/) - [YouTube](https://www.youtube.com/hakanyalcinkaya?sub_confirmation=1) - [Medium](https://medium.com/@hakanyalcinkaya)
+> > [LinkedIn](https://www.linkedin.com/in/onur-arslant%C3%BCrk/) - [YouTube](http://www.onurarslanturk.com/) - [Medium](http://www.onurarslanturk.com/)
 ## Eğitimin Genel Hedefi:
 * Yazılım Dünyasına yeni adım atan kişiler için temel konuların incelenmesi
 * roadmap.sh ile hedeflerini kontrol etmelerini sağlamak
