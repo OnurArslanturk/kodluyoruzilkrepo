@@ -1,3 +1,3 @@
 ***Root*** *7 olarak seçilmiştir*
 
-![BinarySearchProjesi](BinarySearchTreeProjesi.jpg"BinarySearchProjesi")
+![BinarySearchProjesi](AlgorithmHomework/BinarySearchTreeProjesi.jpg"BinarySearchProjesi")
